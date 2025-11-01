@@ -58,3 +58,5 @@ certificates/
 error.log
 access.log
 php_errors.log
+
+storage/logs/
